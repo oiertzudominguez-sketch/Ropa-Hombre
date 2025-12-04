@@ -1,0 +1,20 @@
+linear-gradient {
+    background: linear-gradient(90deg, #0d0d0d, #1a1a1a);
+}
+
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.reducir-foto {
+  height: 200px;       /* ajusta la altura */
+  object-fit: cover;   /* recorta la imagen para que no se deforme */
+}
+.precio {
+    font-size:18px;
+    color: blue;
+    
+}
